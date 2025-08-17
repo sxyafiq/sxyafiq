@@ -78,9 +78,22 @@ Comprehensive collection of optimization patterns:
 - Lock-free algorithms for concurrent programming
 - Memory pool allocators and custom STL implementations
 
-## GitHub Stats
+## GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=sxyafiq&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&disable_animations=true" width="49%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sxyafiq&theme=default&hide_border=true" width="49%" />
+<div align="center">
+  
+[![](https://github-readme-stats.vercel.app/api?username=sxyafiq&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/sxyafiq)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=sxyafiq&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e)](https://github.com/sxyafiq)
+
+</div>
+
+<div align="center">
+  
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=sxyafiq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10)](https://github.com/sxyafiq)
+
+</div>
+
+
 
 ## Currently
 
